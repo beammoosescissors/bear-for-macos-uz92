@@ -1,4 +1,4 @@
-
+Enhance Bear for macOS with updated Bear for macOS Plugin | calendar integration + widgets, the #1 plugin. Includes calendar integration and widgets for a smoother experience.
 
 
 
